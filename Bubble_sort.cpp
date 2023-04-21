@@ -51,5 +51,5 @@ int main()
 
     printArray(arr, N);
 
-    return 0;
+    return 0
 }
